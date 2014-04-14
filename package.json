@@ -1,0 +1,10 @@
+{
+  "name": "fitness-stats",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "coffee-script": "1.7.x",
+    "underscore": "1.5.x",
+    "q": "1.0.x"
+  }
+}
